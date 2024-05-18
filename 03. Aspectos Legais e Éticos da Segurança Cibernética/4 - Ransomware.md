@@ -35,5 +35,3 @@ Combina técnicas de ransomware com outras formas de ataque, como exfiltração 
 - **Atualizações e Patches**: Garanta que todos os sistemas operacionais e softwares estejam atualizados.
 - **Educação e Conscientização**: Treine funcionários para reconhecer e evitar phishing e outros vetores comuns de ransomware.
 - **Soluções de Segurança**: Utilize software de segurança confiável que inclua proteção contra ransomware.
-
-Para mais informações detalhadas, você pode consultar fontes especializadas como a [Kaspersky](https://www.kaspersky.com/resource-center/threats/ransomware-examples) e a [Norton](https://us.norton.com/internetsecurity-malware-5-examples-of-ransomware.html).
