@@ -1,9 +1,5 @@
 # Tipos de Criptografia
 
-Existem dois tipos principais de criptografia, e dentro deles, várias técnicas. Aqui vai um resumo claro e direto:
-
-⸻
-
 🔑 1. Criptografia Simétrica
 	•	Uma única chave é usada para criptografar e descriptografar.
 	•	Rápida e eficiente, ideal para grandes volumes de dados.
@@ -39,7 +35,3 @@ Exemplos:
 	•	Combina simétrica + assimétrica:
 	•	Usa criptografia assimétrica para trocar a chave,
 	•	E simétrica para o restante da comunicação (ex: HTTPS).
-
-⸻
-
-Quer que eu mostre um exemplo simples de criptografia simétrica ou assimétrica em ação?

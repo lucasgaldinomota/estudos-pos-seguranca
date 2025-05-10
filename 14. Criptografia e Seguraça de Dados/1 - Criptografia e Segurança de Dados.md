@@ -1,9 +1,5 @@
 # Criptografia e Segurança de Dados
 
-Criptografia e segurança de dados são pilares fundamentais da proteção da informação no mundo digital. Aqui vai um panorama simples e direto:
-
-⸻
-
 🔐 Criptografia
 
 Criptografia é o processo de transformar informações legíveis (texto plano) em dados ilegíveis (texto cifrado), para que apenas pessoas autorizadas possam acessá-los.
@@ -31,5 +27,3 @@ Exemplos de aplicação:
 	•	Sites com HTTPS usam criptografia assimétrica para trocar chaves e depois simétrica para a comunicação.
 	•	Mensageiros como WhatsApp usam criptografia de ponta a ponta.
 	•	Armazenamento em nuvem seguro utiliza criptografia em repouso e em trânsito.
-
-Quer que eu aprofunde algum desses pontos ou traga exemplos práticos?

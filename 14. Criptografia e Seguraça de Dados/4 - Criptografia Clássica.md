@@ -1,9 +1,5 @@
 # Criptografia Clássica
 
-Beleza! Vamos falar sobre criptografia clássica então:
-
-⸻
-
 🏛️ O que é Criptografia Clássica?
 
 É a criptografia antiga, usada antes dos computadores modernos, baseada principalmente em operações simples com letras e números: substituições, transposições e combinações delas.
@@ -44,7 +40,3 @@ Usam máquinas para criptografar, como:
 	•	Baseada em manipulação manual ou mecânica.
 	•	Fáceis de entender e usar, mas hoje são consideradas inseguras.
 	•	Serviram de base para a criptografia moderna.
-
-⸻
-
-Quer que eu te mostre um exemplo prático de como fazer uma Cifra de César com uma palavra que você escolher? 🎯

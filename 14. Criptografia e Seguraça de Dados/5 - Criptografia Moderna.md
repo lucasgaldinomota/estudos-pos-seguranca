@@ -1,9 +1,5 @@
 # Criptografia Moderna
 
-Show! Vamos falar agora sobre criptografia moderna:
-
-⸻
-
 💻 O que é Criptografia Moderna?
 
 É a criptografia desenvolvida a partir do século XX, especialmente com o avanço dos computadores, baseada em matemática pesada, teoria dos números e algoritmos complexos.
@@ -56,7 +52,3 @@ Ela é essencial hoje para proteger:
 	•	Muito mais segura e baseada em matemática forte.
 	•	Automatizada por softwares e sistemas.
 	•	Usada em quase tudo digital que precisa de privacidade hoje.
-
-⸻
-
-Se quiser, posso te mostrar um exemplo super simples de como funciona uma criptografia AES ou RSA na prática. Quer? 🚀

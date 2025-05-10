@@ -1,9 +1,5 @@
 # História da Criptografia
 
-A história da criptografia é fascinante e cheia de reviravoltas, misturando guerra, ciência e espionagem. Aqui vai um resumo em ordem cronológica:
-
-⸻
-
 🏺 Antiguidade
 	•	Egito Antigo: Escritos criptografados eram usados para manter mensagens religiosas misteriosas.
 	•	Grécia e Roma:
@@ -38,7 +34,3 @@ A história da criptografia é fascinante e cheia de reviravoltas, misturando gu
 	•	RSA (1977): primeiro algoritmo de criptografia assimétrica.
 	•	1980s–2000s: Padrões como DES, depois AES, são adotados por governos e empresas.
 	•	Hoje: Criptografia está em tudo — de sites a aplicativos, passando por criptomoedas e armazenamento em nuvem.
-
-⸻
-
-Se quiser, posso mostrar como funcionava a cifra de César ou até simular uma com uma frase que você escolher. Quer tentar?
